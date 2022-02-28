@@ -1,0 +1,45 @@
+.footer {
+    background-color:  #f2e9e4;
+    display: flex;
+    text-align: center;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+    
+
+}
+
+ .mainfooter{
+    position: fixed;
+    width: 100%;
+bottom: 0;
+height: 80px;
+} 
+
+.copyright{
+    background-color: #1a252f;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    text-align: center;
+    height: max-content;
+}
+
+li{
+    list-style: none;
+    display: inline;
+    padding: 0.5rem;
+}
+a li{
+    font-size: 50px;
+    
+}
+.github{
+    color: #24292e;
+}
+
+.linkedin{
+    color: #0077b5;
+}
+
